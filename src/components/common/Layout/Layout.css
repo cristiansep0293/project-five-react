@@ -1,0 +1,16 @@
+.header-img {
+  width: 100%;
+  max-height: 130px;
+}
+.header {
+  position: relative;
+}
+.header-button-logOut {
+  position: absolute;
+  right: 0px;
+  width: 150px;
+  height: 40px;
+  background: #d93f3f;
+  border: none;
+  color: white;
+}

@@ -1,0 +1,23 @@
+.text-pokedex__nothing-pokemons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.text-pokedex__nothing-pokemons__text {
+  color: #333333;
+  font-family: inter;
+  font-size: 2rem;
+}
+.text-pokedex__nothing-pokemons__img {
+  height: 30rem;
+  width: 30rem;
+}
+.text-pokedex {
+  color: #333333;
+  font-family: inter;
+  font-size: 2rem;
+  padding-left: 14rem;
+}
+.text-pokedex__color {
+  color: #fe1936;
+}

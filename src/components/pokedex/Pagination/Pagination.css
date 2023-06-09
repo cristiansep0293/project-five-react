@@ -1,0 +1,35 @@
+.dvPagination {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-top: 60px;
+  padding-left: 14rem;
+  padding-right: 14rem;
+  padding-bottom: 50px;
+}
+.dvPagination__button {
+  width: 45px;
+  height: 45px;
+  border-radius: 4px;
+  border: none;
+  background: #bdbdbd;
+  color: black;
+}
+.dvPagination__button:hover {
+  color: white;
+  background-color: #dd1a1a;
+}
+.dvPagination__select {
+  width: 60px;
+  height: 45px;
+  border: 1px solid #bdbdbd;
+  border-radius: 4px;
+  text-align-last: center;
+  outline: none;
+}
+.dvPagination__option {
+  text-align: center;
+}
